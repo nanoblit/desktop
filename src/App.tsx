@@ -1,6 +1,6 @@
 import React from "react";
 import { useEffect } from "react";
-import DisplayWindow from "./components/display-window/DisplayWindow";
+import DisplayWindow from "./components/displayWindow/DisplayWindow";
 import "./index.css";
 
 function App() {

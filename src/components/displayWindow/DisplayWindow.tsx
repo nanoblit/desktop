@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { useState } from "react";
-import WindowHeader from "../window-header/WindowHeader";
+import WindowHeader from "../windowHeader/WindowHeader";
 
 function DisplayWindow() {
   const [position, setPosition] = useState({ left: 0, top: 0 });
